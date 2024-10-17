@@ -4,7 +4,6 @@ Angel Sharma
 Cherish Puniani
 <br>
 Akhil Punia
-Aryan Bodke
 Noble Mittal
 Suyash Rahul
 Bhoomi Bonal
@@ -51,3 +50,4 @@ Archit Modi
 Lakshita
 Saurabh Rana
 
+ARYAN BODKE
